@@ -8,6 +8,10 @@ This is an area for updating conclusions of what I learned and some notes for me
 
 #### 2017.7.31:
 
+ADDED: `/python_DataStructure/Algorithm_Udacity.py`
+
+#### 2017.7.31:
+
 ADDED: `/python_DataStructure/time_conversion.py`
 
 #### 2017.7.30:
