@@ -1,4 +1,4 @@
-# 	React.JS Chap2: Component Class
+# 	React.JS	 Chap2: Component Class
 
 ```react
 class MyComponentClass extends React.Component
@@ -312,7 +312,7 @@ The second name that you have to choose is the name of the prop that you will us
 
 For our prop name, we also chose `talk`, as shown on line 15:
 
-```
+```javascript
 return <Button talk={this.talk} />;
 ```
 
